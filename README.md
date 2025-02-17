@@ -8,7 +8,7 @@ I demonstrate the application of OCP by implementing mathematical operations in 
 Consider a scenario where we need to perform different mathematical operations like addition, subtraction, multiplication, and division.
 Instead of modifying the original class every time we want to add a new operation, we can extend the class by adding new operations without touching the existing functionality.
 
-download the pdf file(Persian Version): [OCP](https://github.com/CodeSpresso-dev/SOLIDCodeExamplesHub/tree/main/SOLID/src/main/resources/اصل Open-Close Principle.pdf)
+download the pdf file(English Version): [OCP](https://github.com/CodeSpresso-dev/SOLIDCodeExamplesHub/tree/main/SOLID/src/main/resources/OCP.pdf)
 Access the code: [OCP](https://github.com/CodeSpresso-dev/SOLIDCodeExamplesHub/tree/main/SOLID/src/main/java/ir/mehdi/ood/solid/ocp)
 
 ---
